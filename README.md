@@ -376,8 +376,7 @@ Este contenido está licenciado bajo los términos de la Licencia MIT.
 
 ## Contacto
 
-- Email: jcastineiras@uade.edu.ar
-- [Agregar otros medios de contacto si corresponde]
+- Email: jose.castineiras@docentes.udemm.edu.ar
 
 ---
 
